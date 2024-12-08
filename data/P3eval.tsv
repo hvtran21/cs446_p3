@@ -1,0 +1,23 @@
+ql	q-wbr-ql	operate	substantially
+or	q-wbr-or	witherby	rugg    richardson
+bm25	q-wbr-bm25	witherby	rugg	richardson
+and	q-wbr-and	witherby	rugg	richardson
+and	q-relates-and	this	invention	relate	improvement
+or	q-motion-or	motion	of	the
+bm25	q-elc-and	electric	light	company
+and	q-el-and	electric	light
+bm25	q-bway-bm25	broadway	new	york
+ql	q-amcoll-ql	amherst	college
+or	pq-wbr-or	witherby	rugg richardson
+and	pq-wbr-and	witherby rugg richardson
+bm25	pq-opsub	operate substantially
+ql	pq-motion3-or	of the motion
+or	pq-motion-or	motion of the earth	motion of the water	motion of the stars	motion of the piston
+tf	pq-motion3-tf	of the motion
+tf	pq-opsub-tf	operate substantially
+tf	q-bway-tf	broadway
+tf	q-ntw-tf	notwind
+df	pq-wbr-df	witherby	rugg richardson
+df	pq-wbr3-df	witherby rugg richardson
+df	q-el-df	electric	light
+df	q-nnyt-df	nnyt

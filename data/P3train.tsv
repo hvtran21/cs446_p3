@@ -13,3 +13,10 @@ bm25	pq-us-bm25	united states
 and	pq-us-and	united states
 or	pq-sciam-or	scientific america supplement
 and	pq-das	detail and specification
+tf	pq-ows-tf	own subscription
+tf	pq-dfor-tf	drift formation
+tf	q-trou-tf	trout
+tf	q-notind-tf	notinindex
+df	q-hein-df	hell	insect
+df	pq-mygo-df	my mind	go
+df	q-notex-df	notex
